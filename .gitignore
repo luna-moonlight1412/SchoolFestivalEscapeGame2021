@@ -161,3 +161,6 @@ cython_debug/
 
 # MacFile
 .DS_Store
+
+# binary in flg
+flg/
